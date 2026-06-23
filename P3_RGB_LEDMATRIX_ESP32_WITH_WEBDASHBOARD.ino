@@ -17,7 +17,7 @@ const long gmtOffset_sec = 19800; // India Time
 const int daylightOffset_sec = 0;
 String latitude = "33.730726126801294"; //enter your latitude
 String longitude = "75.14878599117765";//enter your longitude
-String apiKey = "00f38e5701138c298c08770e4410c5b9"; //enter weather api here watch previous video to setup on youtube
+String apiKey = "YOUR API KEY FOR WEATHER"; //enter weather api here watch previous video to setup on youtube
 
 // --- PIN DEFINITIONS (P3 64x64) ---
 #define R1_PIN 19
